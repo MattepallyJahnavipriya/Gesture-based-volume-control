@@ -13,6 +13,7 @@ The project uses Computer Vision and Hand Tracking to provide a touch-free and i
 
 🚀 Features:
 ✅Real-time hand gesture recognition using a webcam
+
 ✅Touchless system volume control
 ✅Smooth and responsive volume adjustment
 ✅Interactive UI using Streamlit
